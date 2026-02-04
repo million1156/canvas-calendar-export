@@ -32,7 +32,7 @@ This became very annoying to me, because my college enrolls me in mandatory clas
 
 Another problem I had is Canvas's export tool does not contain the direct URL to the assignment, which is fustrating if you're someone who has trouble with searching for assignments & doesn't want to click through multiple links :)
 
-Example:
+Example of an exported calendar using this tool:
 
 <img width="378" height="364" alt="Screenshot 2026-02-04 at 10 10 26 AM" src="https://github.com/user-attachments/assets/420d81e6-4b1e-40ef-a92c-51a0aa390920" />
 
