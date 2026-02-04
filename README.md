@@ -27,7 +27,14 @@ python main.py
 
 I have a lot of memory issues and would always love reminders. Canvas/Instructure provides a way to export assignments as a calendar, but the problem is it exports **every** single class's assignments instead of just the ones you want!
 
-This became very annoying to me, because my college enrolls me in mandatory classes about non-applicable stuff. I didn't want to have unnessecary clutter fill up my calendar, so I created a very quick tool that allowed me to export my assignments for the classes I **actually take**!
+This became very annoying to me, because my college enrolls me in mandatory classes about non-applicable stuff. I didn't want to have unnessecary clutter fill up my calendar, so I created a very quick tool (this repo!) that allowed me to export my assignments for the classes I **actually take**!
+
+Another problem I had is Canvas's export tool does not contain the URL to the assignment, which is fustrating if you're someone who has trouble with searching for assignments. This tool fixes that by using the [iCalendar standard](https://datatracker.ietf.org/doc/html/rfc5545)'s URL property. 
+
+Example:
+
+<img width="378" height="364" alt="Screenshot 2026-02-04 at 10 10 26 AM" src="https://github.com/user-attachments/assets/420d81e6-4b1e-40ef-a92c-51a0aa390920" />
+
 
 
 ## Options
