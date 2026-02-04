@@ -30,7 +30,7 @@ I have a lot of memory issues and would always love reminders. Canvas/Instructur
 
 This became very annoying to me, because my college enrolls me in mandatory classes about non-applicable stuff. I didn't want to have unnessecary clutter fill up my calendar, so I created a very quick tool (this repo!) that allowed me to export my assignments for the classes I **actually take**!
 
-Another problem I had is Canvas's export tool does not contain the URL to the assignment, which is fustrating if you're someone who has trouble with searching for assignments. This tool fixes that by using the [iCalendar standard](https://datatracker.ietf.org/doc/html/rfc5545)'s URL property. 
+Another problem I had is Canvas's export tool does not contain the direct URL to the assignment, which is fustrating if you're someone who has trouble with searching for assignments & doesn't want to click through multiple links :)
 
 Example:
 
