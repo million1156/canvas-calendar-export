@@ -1,5 +1,6 @@
 # canvas-calendar-export
 
+A tool to export select classes assignments from Canvas
 
 ## Setup
 
